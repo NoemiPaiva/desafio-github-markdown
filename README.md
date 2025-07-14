@@ -1,2 +1,9 @@
-# desafio-github-markdown
-Projeto prático que consiste em criar e organizar um repositório no GitHub utilizando a linguagem Markdown para documentar e estruturar o conteúdo.
+# 📘 Projeto: Desafio do GitHub e Markdown
+
+Este projeto é um exercício prático para aplicar funcionalidades essenciais do GitHub e da linguagem Markdown.
+
+## Objetivos
+
+- Criar e gerenciar repositórios no GitHub  
+- Estruturar documentos com Markdown  
+- Organizar conteúdos para facilitar a leitura e colaboração
