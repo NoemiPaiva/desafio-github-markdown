@@ -18,3 +18,5 @@ Este projeto é um exercício prático para aplicar funcionalidades essenciais d
 6. Colaborador adicionado
 7. Clone do repositório na máquina
 
+![Adicionando uma imagem](github.jpg)
+
